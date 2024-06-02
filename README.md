@@ -14,3 +14,5 @@ Meu primeiro codigo desenvolvido em portugol nas aulas de programação,
 > &nbsp;&nbsp;&nbsp;&nbsp;x ← m x n \
 > &nbsp;&nbsp;&nbsp;&nbsp;ESCREVA  x \
 > FIM
+
+Exemplo doo livro Lógica de Programação - Editora Viena
