@@ -15,4 +15,7 @@ Meu primeiro codigo desenvolvido em portugol nas aulas de programação,
 > &nbsp;&nbsp;&nbsp;&nbsp;ESCREVA  x \
 > FIM
 
+## Fluxograma
+![alt text](https://github.com/databiteps/multiplicacao/blob/main/multiplicacao.drawio.png?raw=true "Title")
+
 Exemplo doo livro Lógica de Programação - Editora Viena
