@@ -18,4 +18,4 @@ Meu primeiro codigo desenvolvido em portugol nas aulas de programação,
 ## Fluxograma
 ![alt text](https://github.com/databiteps/multiplicacao/blob/main/multiplicacao.drawio.png?raw=true "Title")
 
-Exemplo doo livro Lógica de Programação - Editora Viena
+Exemplo do livro Lógica de Programação - Editora Viena
